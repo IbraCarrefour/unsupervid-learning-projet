@@ -1,0 +1,1 @@
+# ecrire une fonction pour calculer la matrice de co-occurrence de mots
